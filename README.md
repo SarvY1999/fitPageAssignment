@@ -28,8 +28,8 @@ Ensure you have the following installed:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/SarvY1999/PriceLabsAssignment.git priceLabsAssignment
-   cd priceLabsAssignment
+   git clone https://github.com/SarvY1999/PriceLabsAssignment.git FitPageAssignment
+   cd FitPageAssignment
    ```
 
 2. Install dependencies:
